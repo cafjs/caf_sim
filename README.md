@@ -6,6 +6,10 @@ See http://www.cafjs.com
 
 ## CAF Extra standalone simulator
 
+*** THIS IS OBSOLETE, THERE IS NO NEED FOR A SIMULATOR TO RUN LOCALLY**
+
+
+
 This repository contains a CAF extra lib that simulates the Cloud Foundry http router.
 
 The goal is to run CAF standalone, in a single node without CF, for the purpose of debugging.
